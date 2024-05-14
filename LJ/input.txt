@@ -1,0 +1,18 @@
+0.000909178231d0
+7.099701050259d0
+36410.37462121d0
+36410.37462121d0
+10.00000000000d0
+0
+
+#Note:
+eps	: well depth LJ
+re	: equilibrium radius LJ
+ma	: mass of atom Ar
+mb	: mass of atom Ar
+r_end   : matching point (limit of integration)
+l	: angular momentum
+
+
+
+Units --> a.u. (Rydberg; dimensionless)
