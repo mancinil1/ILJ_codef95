@@ -1,0 +1,20 @@
+30000
+-0.0008000d0
+0.00000000d0
+0.00000000d0
+4.00000000d0
+16.0000000d0
+0
+
+
+#Note:
+n_tot	: number of grids/blocks
+E_tot	: total energy
+Psi0_L	: the initial y value from the left
+Psi0_R	: the initial y value from the right
+r0_L	: the initial x value from the left
+r0_R	: the initial x value from the right
+qn	: quantum number
+
+
+Units --> a.u. (Rydberg; dimensionless)
